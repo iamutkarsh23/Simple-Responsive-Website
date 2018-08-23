@@ -1,0 +1,38 @@
+body, html{
+	width: 100%;
+	height: 100%;
+}
+
+body{
+	font-family: 'Montserrat';
+	font-style: italic;
+}
+
+.important { 
+	background-image: url("https://www.andrewhawkes.co.uk/images/photos/Golden-Yorkshire-Norwood-North-Yorkshire.jpg");
+	background-size: cover;
+	background-position: center;
+	height: 100%;
+ }
+
+ .container {
+ 	display: flex;
+ 	align-items: flex-end;
+ 	margin-bottom: 100px;
+ }
+
+.row {
+ 	display: flex;
+ 	align-content: flex-end;
+ }
+
+.some-text { 
+ 	color: white;
+ }
+
+
+
+.butt{
+ 	display: flex;
+ 	justify-content: flex-end;
+ }
